@@ -1,0 +1,40 @@
+body {
+    color: black;
+}
+
+a {
+    color: #174873
+}
+
+a:visited {
+    color: #591212
+}
+
+h3,
+h3.archive__subtitle {
+    clear: both;
+    color: #174873;
+    font-family: "Playfair display";
+    font-size: 1.35em;
+}
+
+
+
+h1,
+h2 {
+    color: #174873;
+    font-family: "Handlee";
+    font-weight: 700;
+}
+
+p,
+.sidebar p,
+.archive__item-title,
+a,
+body {
+    font-family: "Playfair display";
+}
+
+#main {
+    position: relative;
+}

@@ -1,0 +1,9 @@
+#main links
+main:
+  - title: "Home"
+    url: "/"
+  - title: "My Portfolio"
+    url: "/myportfolio"
+  - title: "About Me"
+    url: "/about"
+  

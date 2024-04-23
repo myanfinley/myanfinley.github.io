@@ -1,0 +1,11 @@
+Mya Finley:
+  name        : "Mya Finley"
+  bio         : "Let's talk about data! Feel free to reach out via the links below."
+  avatar      : 
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mya.finley@yahoo.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/mya-finley/"
