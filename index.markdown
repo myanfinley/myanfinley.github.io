@@ -8,4 +8,5 @@ author_profile: true
 ---
 ![Mya Finley](/assets/images/1603571464151.jpg){: .avatar}
 # Hi! I'm Mya Finley
-I am a data analyst with 2 years of financial data analysis experience. You can view some of my favorite projects below and see all my projects by clicking on [My Portfolio](myportfolio.md)
+I am a data analyst with 2 years of financial data analysis experience. This portfolio showcases my SQL code for various projects as well as the Tableau dashboard I used as a data visualization tool.
+You can view my projects below.
